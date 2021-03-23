@@ -20,7 +20,7 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "hoverBehavior": "Dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
@@ -40,8 +40,8 @@
       "defaultLabelSize": 20
     },
     "graphProperties": {
-      "maxEdgeSize": 1.0,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 10.0,
+      "minEdgeSize": 1.0,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
